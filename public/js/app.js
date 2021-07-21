@@ -1,3 +1,4 @@
+ console.log("lou is the best")
  const weatherform=document.querySelector('form')
     const search=document.querySelector('input')
     const message_one=document.getElementById("message_one")
